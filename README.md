@@ -19,12 +19,15 @@ Copy all .txt files to this folder and execute the tool.
 
 ## Screenshots
 Show general information about all drives
+
 ![Screenshot Drive View](/Screenshot_DriveView.png)
 
 Browse content of each drive, or combined, in an Explorer-like way
+
 ![Screenshot File View](/Screenshot_FileView.png)
 
 Search for files/folders
+
 ![Screenshot Search View](/Screenshot_SearchView.png)
 
 ## Limitations and TODOs
